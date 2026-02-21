@@ -1,1 +1,23 @@
 hlo
+
+
+its more like a daily progress update 
+
+
+
+//* date : 21/02/26 saturday
+
+all the services init is done , we made basic health check endpoints and setup the API endpoints for that , and checked using requestly
+
+Payment service : Hono
+Product service : express
+Order service : fastify
+
+
+hmm so we added auth to client app , thats it for this today.
+
+
+
+
+
+
